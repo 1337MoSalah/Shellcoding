@@ -1,3 +1,5 @@
+# Pushing strings into stack in little indians
+
 def string_to_little_endian_push(input_string):
     # Ensure length is multiple of 4 by padding with null bytes
     padding_len = (4 - len(input_string) % 4) % 4
@@ -18,3 +20,4 @@ def string_to_little_endian_push(input_string):
 # Example usage:
 your_string = r'TEXT OR PATH HERE'
 print(string_to_little_endian_push(your_string))
+
