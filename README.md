@@ -1,5 +1,5 @@
-# Shellcoding
-x86 Shellcodes using various Win32 APIs implemented in assembly using the Keystone engine
+# ShellCoding
+Assembly-based x86 custom shellcodes developed with the Keystone engine, utilising various Win32 API functions.
 
 ## Python Requirements
 keystone
