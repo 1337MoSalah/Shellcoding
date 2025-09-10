@@ -12,3 +12,24 @@ numby
 
 ctypes
 
+
+## Win32 APIs
+
+MoveFileA
+
+CopyFileA
+
+ReadFile
+
+WriteFile
+
+WriteConsoleA
+
+CreateFileA
+
+WinExec
+
+CreateProccessA
+
+DeleteFileA
+
